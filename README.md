@@ -16,9 +16,7 @@ A simple and efficient receipt generator designed for automobile workshops. This
 
 ## Technologies Used
 
-- **Frontend:** [e.g., React, HTML, CSS, JavaScript]  
-- **Backend:** [e.g., Node.js, Express]  
-- **Database:** [e.g., MongoDB, SQLite] (if applicable)  
+- **Frontend:** [React]  
 - **Others:** [e.g., PDF generation library]
 
 ---
