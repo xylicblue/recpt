@@ -28,3 +28,6 @@ A simple and efficient receipt generator designed for automobile workshops. This
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/receipt-generator.git
+
+
+![Project Preview](./public/image.png)
